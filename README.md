@@ -20,5 +20,5 @@
 
 <main>
     <section>
-        <h2>Welcome to the Future of Technology</h2>h2>
+        <h2>Welcome to the Future of Technology</h2>
            
